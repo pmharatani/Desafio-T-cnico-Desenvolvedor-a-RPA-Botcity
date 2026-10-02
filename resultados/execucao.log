@@ -1,0 +1,77 @@
+2026-10-02 16:58:07,943 | INFO | __main__ | Iniciando automação.
+2026-10-02 16:58:07,943 | INFO | __main__ | Iniciando etapa Web.
+2026-10-02 16:58:09,737 | INFO | Web | Acessando Fake Name Generator.
+2026-10-02 16:58:11,870 | INFO | Web | Configurando o site para geração do comprador.
+2026-10-02 16:58:11,983 | INFO | Web | Gerando comprador.
+2026-10-02 16:58:12,360 | INFO | Web | Comprador gerado com sucesso.
+2026-10-02 16:58:12,390 | INFO | Web | Dados do comprador capturados com sucesso.
+2026-10-02 16:58:12,390 | INFO | __main__ | Comprador gerado | Nome: Melissa Alves Dias | CEP: 59100-090
+2026-10-02 16:58:12,506 | INFO | __main__ | Screenshot do comprador no Fake Name Generator capturado.
+2026-10-02 16:58:12,509 | INFO | Ferramentas | CSV do comprador salvo com sucesso: C:\Users\paulo\PycharmProjects\pythonProject5\resultados\Comprador.csv
+2026-10-02 16:58:12,509 | INFO | Web | Acessando Sauce Demo.
+2026-10-02 16:58:14,071 | INFO | Web | Login no Sauce Demo realizado com sucesso.
+2026-10-02 16:58:14,071 | INFO | Web | Iniciando captura do catálogo.
+2026-10-02 16:58:14,134 | INFO | Web | Produto coletado | Nº 4 | Sauce Labs Backpack | $29.99
+2026-10-02 16:58:14,165 | INFO | Web | Produto coletado | Nº 0 | Sauce Labs Bike Light | $9.99
+2026-10-02 16:58:14,202 | INFO | Web | Produto coletado | Nº 1 | Sauce Labs Bolt T-Shirt | $15.99
+2026-10-02 16:58:14,239 | INFO | Web | Produto coletado | Nº 5 | Sauce Labs Fleece Jacket | $49.99
+2026-10-02 16:58:14,278 | INFO | Web | Produto coletado | Nº 2 | Sauce Labs Onesie | $7.99
+2026-10-02 16:58:14,325 | INFO | Web | Produto coletado | Nº 3 | Test.allTheThings() T-Shirt (Red) | $15.99
+2026-10-02 16:58:14,326 | INFO | Web | Catálogo coletado com sucesso. Total: 6 produtos.
+2026-10-02 16:58:14,395 | INFO | __main__ | Screenshot do catálogo no Sauce Demo capturado.
+2026-10-02 16:58:14,396 | INFO | Ferramentas | CSV do catálogo salvo com sucesso | 6 produtos | C:\Users\paulo\PycharmProjects\pythonProject5\resultados\Catalogo.csv
+2026-10-02 16:58:16,520 | INFO | __main__ | Etapa Web finalizada.
+2026-10-02 16:58:16,521 | INFO | Ferramentas | CSV carregado com sucesso: C:\Users\paulo\PycharmProjects\pythonProject5\resultados\Comprador.csv
+2026-10-02 16:58:16,521 | INFO | Ferramentas | CSV carregado com sucesso: C:\Users\paulo\PycharmProjects\pythonProject5\resultados\Catalogo.csv
+2026-10-02 16:58:16,521 | INFO | __main__ | Iniciando etapa Fakturama.
+2026-10-02 16:58:16,522 | INFO | Fakturama | Inicializando Fakturama.
+2026-10-02 16:58:16,550 | INFO | Fakturama | Fakturama não está em execução. Procurando atalho.
+2026-10-02 16:58:16,557 | INFO | Fakturama | Abrindo Fakturama através de: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Fakturama.exe (win64).lnk
+2026-10-02 16:58:16,638 | INFO | Fakturama | Conectando ao Fakturama | PID: 30344
+2026-10-02 16:58:38,652 | INFO | Fakturama | Janela principal do Fakturama localizada.
+2026-10-02 16:58:39,207 | INFO | Fakturama | Fakturama carregado. Maximizando janela.
+2026-10-02 16:58:39,515 | INFO | Fakturama | Fakturama pronto para automação.
+2026-10-02 16:58:39,515 | INFO | __main__ | Iniciando registro dos compradores.
+2026-10-02 16:58:39,515 | INFO | __main__ | Cadastrando comprador Melissa Alves Dias.
+2026-10-02 16:58:40,730 | INFO | Fakturama | Aba Novo contato aberta.
+2026-10-02 16:58:40,730 | INFO | Fakturama | Iniciando preenchimento do comprador: Melissa Alves Dias
+2026-10-02 16:58:44,766 | INFO | Fakturama | Comprador preenchido com sucesso.
+2026-10-02 16:58:45,068 | INFO | Fakturama | Comando de salvamento executado.
+2026-10-02 16:58:45,370 | INFO | __main__ | Comprador cadastrado com sucesso.
+2026-10-02 16:58:45,370 | INFO | __main__ | Registro dos compradores finalizado.
+2026-10-02 16:58:45,370 | INFO | __main__ | Iniciando registro dos produtos.
+2026-10-02 16:58:45,370 | INFO | __main__ | Cadastrando produto | Nº 0 | Sauce Labs Bike Light
+2026-10-02 16:58:46,135 | INFO | Fakturama | Aba Novo produto aberta.
+2026-10-02 16:58:51,125 | INFO | Fakturama | Comando de salvamento executado.
+2026-10-02 16:58:51,427 | INFO | __main__ | Produto cadastrado com sucesso.
+2026-10-02 16:58:51,427 | INFO | __main__ | Cadastrando produto | Nº 1 | Sauce Labs Bolt T-Shirt
+2026-10-02 16:58:52,268 | INFO | Fakturama | Aba Novo produto aberta.
+2026-10-02 16:58:56,925 | INFO | Fakturama | Comando de salvamento executado.
+2026-10-02 16:58:57,283 | INFO | __main__ | Produto cadastrado com sucesso.
+2026-10-02 16:58:57,283 | INFO | __main__ | Cadastrando produto | Nº 2 | Sauce Labs Onesie
+2026-10-02 16:58:58,239 | INFO | Fakturama | Aba Novo produto aberta.
+2026-10-02 16:59:03,079 | INFO | Fakturama | Comando de salvamento executado.
+2026-10-02 16:59:03,382 | INFO | __main__ | Produto cadastrado com sucesso.
+2026-10-02 16:59:03,382 | INFO | __main__ | Cadastrando produto | Nº 3 | Test.allTheThings() T-Shirt (Red)
+2026-10-02 16:59:04,150 | INFO | Fakturama | Aba Novo produto aberta.
+2026-10-02 16:59:09,002 | INFO | Fakturama | Comando de salvamento executado.
+2026-10-02 16:59:09,304 | INFO | __main__ | Produto cadastrado com sucesso.
+2026-10-02 16:59:09,304 | INFO | __main__ | Cadastrando produto | Nº 4 | Sauce Labs Backpack
+2026-10-02 16:59:10,218 | INFO | Fakturama | Aba Novo produto aberta.
+2026-10-02 16:59:14,961 | INFO | Fakturama | Comando de salvamento executado.
+2026-10-02 16:59:15,275 | INFO | __main__ | Produto cadastrado com sucesso.
+2026-10-02 16:59:15,276 | INFO | __main__ | Cadastrando produto | Nº 5 | Sauce Labs Fleece Jacket
+2026-10-02 16:59:16,144 | INFO | Fakturama | Aba Novo produto aberta.
+2026-10-02 16:59:21,251 | INFO | Fakturama | Comando de salvamento executado.
+2026-10-02 16:59:21,553 | INFO | __main__ | Produto cadastrado com sucesso.
+2026-10-02 16:59:21,553 | INFO | __main__ | Registro dos produtos finalizado.
+2026-10-02 16:59:21,553 | INFO | __main__ | Realizando captura da tela de Contatos.
+2026-10-02 16:59:22,487 | INFO | Fakturama | Aba Contatos aberta.
+2026-10-02 16:59:22,553 | INFO | Fakturama | Screenshot capturado com sucesso: C:\Users\paulo\PycharmProjects\pythonProject5\resultados\screenshots\Contatos_Fakturama.png
+2026-10-02 16:59:22,856 | INFO | __main__ | Realizando captura da tela de Produtos.
+2026-10-02 16:59:23,673 | INFO | Fakturama | Aba Produtos aberta.
+2026-10-02 16:59:23,729 | INFO | Fakturama | Screenshot capturado com sucesso: C:\Users\paulo\PycharmProjects\pythonProject5\resultados\screenshots\Produtos_Fakturama.png
+2026-10-02 16:59:24,031 | INFO | Fakturama | Encerrando Fakturama | PID: 30344
+2026-10-02 16:59:24,119 | INFO | Fakturama | Fakturama encerrado com sucesso.
+2026-10-02 16:59:24,119 | INFO | __main__ | Etapa Fakturama finalizada.
+2026-10-02 16:59:24,119 | INFO | __main__ | Automação finalizada com sucesso.
